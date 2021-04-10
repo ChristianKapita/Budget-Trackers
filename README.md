@@ -20,7 +20,7 @@ Steps to install application:
 2. In the directory with app.js run npm install to install node dependencies
 3. Type http://localhost:3000 in you browser.
 
-The app is live on <a href="https://aqueous-brushlands-78198.herokuapp.com/"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a>
+The app is live on <a href="https://intense-chamber-42991.herokuapp.com/"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a>
 
 ```
 git clone git@github.com:ChristianKapita/Budget-Trackers.git
