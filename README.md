@@ -1,7 +1,7 @@
 # Budget-Tracker
 ## Description
 
-This Project consists of a web application that allows a user to track his budget.
+This Project consists of a Pogressive Web Apps (PWA) that allows a user to track his budget.
 With this budget tracker app, the user is able to add expenses and deposit while being online or offline.
 All transactions entering while the user is offline, will be synch automatically to the database as soon as the app is online again.
 
@@ -34,7 +34,7 @@ node  Server.js
 
 1. Budget tracker - Landing Page 
 
-![Budget tracker Main page](https://user-images.githubusercontent.com/73804862/114254771-50c64700-997f-11eb-8d43-e37dfc699198.PNG)
+![Budget tracker Main page](https://user-images.githubusercontent.com/73804862/114255009-af3ff500-9980-11eb-9851-92750c94a0aa.PNG)
 
 2. Budget tracker - App Online
 
